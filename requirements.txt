@@ -2,6 +2,3 @@ runpod
 transformers
 qwen-tts
 soundfile
-packaging
-ninja
-flash-attn
